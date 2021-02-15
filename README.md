@@ -16,6 +16,5 @@
 
 - **독서** : 1 ~ 17P <br/>
 - **연습문제** : 17P <br/>
-- **실습내용**
-  - TypeScript 기본 환경설정
-  - TSC의 동작방식 확인
+- **실습 및 공부한 내용** <br/>
+  [https://leehyungi0622.github.io/2021/02/15/202102/210215-Typescript/](https://leehyungi0622.github.io/2021/02/15/202102/210215-Typescript/)
